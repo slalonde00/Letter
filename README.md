@@ -19,7 +19,7 @@
 
 ### Clonage du dépôt
 ```bash
-git clone https://github.com
+git clone https://github.com/slalonde00/Letter
 cd Letter
 ```
 
